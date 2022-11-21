@@ -1,0 +1,8 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+\Prints 10 filenames from folder uploaded_images/
+ 1 file:            Tiger_001.jpeg
+ 2 file:            Pug_dog_01.jpg
+ 3 file:         Coffee_cup_01.jpg
